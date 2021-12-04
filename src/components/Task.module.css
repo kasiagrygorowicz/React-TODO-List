@@ -1,0 +1,16 @@
+.taskFrame {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 5px;
+    margin:auto;
+    margin-left:10px;
+
+}
+
+
+.item {
+    margin:0;
+    padding:0;
+    vertical-align :top;
+}
